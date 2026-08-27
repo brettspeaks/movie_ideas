@@ -1,0 +1,6 @@
+# Ignore compiled books or exports
+*.pdf
+*.epub
+*.docx
+*.html
+.DS_Store
