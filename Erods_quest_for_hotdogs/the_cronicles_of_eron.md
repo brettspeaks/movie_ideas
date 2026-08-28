@@ -25,6 +25,22 @@
 
 ---
 
+## 👥 Characters Along the Way
+
+### 🛒 The CostCan Savior (Modern Era)
+* **Profile:** A hardworking, empathetic single mother of three kids. 
+* **Role:** She is completely overwhelmed by her own grocery run but spots a confused, oddly dressed stranger (Eron) being harassed by a store employee. Guided by pure kindness, she steps in to shield him, accidentally introducing him to the magic of future electronics and the $1.50 hot dog combo.
+
+### 🏺 The Egyptian Guide (Bronze Age)
+* **Profile:** A sharp, playful local woman who finds Eron’s utter confusion and strange Atlantean features charming/“cute.” 
+* **Role:** While Eron is busy trying to decode root words to find food, she takes pity on him (and enjoys his company). She acts as his guide through the desert city and ultimately leads him straight to the regional "pyramids," unwitting helping him find his massive wireless power source.
+
+### 🕴️ The Chicago Bootlegger (1940s)
+* **Profile:** A fast-talking, sharp-dressed mobster entangled in the city's illegal liquor distribution network. 
+* **Role:** He mistakes Eron for a heavy-hitting, eccentric foreign mercenary from a rival family. He ropes Eron into a dangerous heist or distribution run, inadvertently giving Eron access to the city's high-voltage industrial power lines and teaching him his favorite new catchphrase: *"Give me a smoke and ahh, see?"*
+
+---
+
 ## 🗺️ Planned Chapters & Eras
 
 ### Chapter 1: The CostCan Incident (The Origin)
@@ -33,9 +49,9 @@
   * Eron materializes and monitors the parking lot. He mistakes gas pumps/EV chargers for "metal beasts attaching to hoses."
   * A cart wrangler tries to kick him out. A kind local woman saves him by claiming "he's with me."
   * Inside, Eron is baffled by men wearing "collared shirts" (unnecessary neck flaps) and the illusion of infinite free food via sample stations.
-  * In the electronics section, a tech-savvy little girl inadvertently explains "wireless charging" to him using a phone pad. Eron's orb begins to throb and absorb power.
+  * In the electronics section, a tech-savvy little girl inadvertently explains "wireless charging" to him using a phone pad. Eron's nuts begins to throb and absorb power.
   * Eron tries to buy more food at the food court using a gifted plastic card and a "wrist-beep" gesture. 
-  * The overloaded orb wobbles in its socket and teleports him mid-transaction.
+  * The overloaded nuts wobble in its socket and teleports him mid-transaction.
 
 ### Chapter 2: The Cradle of Civilization (The Megalithic Charger)
 * **Setting:** Ancient Egypt or Mesopotamia (Bronze Age).
@@ -53,7 +69,7 @@
   * *Engineering Puzzle:* He can target the massive industrial power grids or electric trolley lines for heavy voltage.
 
 ### Future Anthologies & Mechanics (Brainstorming Queue)
-* **The Golf Course:** Eron encounters men in pleated khaki shorts (which he views as elite status uniforms). He has to harness a literal lightning strike on an open golf course to charge the orb.
+* **The Golf Course:** Eron encounters men in pleated khaki shorts (which he views as elite status uniforms). He has to harness a literal lightning strike on an open golf course to charge the nuts.
 * **The Hydro Generator:** Stranded by a roaring river with zero tech, Eron uses his engineering skills to build a wooden waterwheel generator from scratch.
 * **The Clay Pot Battery:** Building a massive DC voltage array using primitive clay pots, copper, and acid (inspired by the Baghdad Battery).
 * **The Las Vegas Grooming Mission:** Eron gets handed promotional "cards of people of service" on the Vegas Strip. Mistaking them for official tribal grooming coupons, he tries to use them to negotiate for a high-end bath and a haircut.
