@@ -12,11 +12,11 @@
 * **Skillset:** Brilliant at mechanics, architecture, and physics. He communicates primarily through universal human gestures, facial expressions, and posture. 
 * **Linguistic Intuition:** While he doesn't speak modern languages fluently, his ancient tongue contains the foundational root words for human speech. He can instinctively analyze accents, sounds, and cognates to decipher basic survival context—much like a modern traveler who knows just enough of a foreign language to find a bathroom anywhere in the world.
 
-### 2. The Artifact: The Resonance Orb
-* **Appearance:** A mysterious "rock" or "orb" affixed to the top of a wooden staff. 
-* **Mechanic:** Tuned to Earth's natural resonance. Manipulation of the staff allows for time travel.
-* **The Problem:** It has limited charges and "wobbles" unpredictably when overloaded. Eron doesn't fully understand how to tune or control it yet.
-* **Fuel Source:** It requires ambient electrical energy or high-resonance monuments to recharge.
+### 2. The Artifact: The Seed-Resonance Orb (The "Magical Nuts")
+* **Appearance:** A cluster of large, petrified prehistoric seed-pods or "nuts" securely affixed to the top of his wooden staff. 
+* **The Lore:** In Eron's era, advanced technology is biological and organic. The nuts contain a dense, crystallized internal core that vibrates at Earth's natural frequency, allowing them to bend the fabric of time when supercharged.
+* **The Steering Mechanism:** The exact **physical orientation** and rotation of the nuts on the staff, combined with the level of electrical charge, control his next time-travel trajectory. Calibrating his destination is an engineering puzzle that requires precise physical tuning.
+
 
 ### 3. The Ultimate Motivation: The $1.50 Combo
 * **The Revelation:** After experiencing the CostCan food court, Eron discovers the $1.50 hot dog combo and fizzy ice water. It is the greatest meal of his life.
