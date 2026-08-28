@@ -9,7 +9,8 @@
 ### 1. The Protagonist: Eron
 * **Background:** A young to middle-aged engineer living 10,000 to 15,000 years ago in the Pacific Scablands. 
 * **Civilization:** An advanced, monolithic pre-ice-age society (similar to Atlantis) far ahead of what modern history believes.
-* **Skillset:** Brilliant at mechanics, architecture, and physics. He communicates primarily through universal human gestures, facial expressions, and posture.
+* **Skillset:** Brilliant at mechanics, architecture, and physics. He communicates primarily through universal human gestures, facial expressions, and posture. 
+* **Linguistic Intuition:** While he doesn't speak modern languages fluently, his ancient tongue contains the foundational root words for human speech. He can instinctively analyze accents, sounds, and cognates to decipher basic survival context—much like a modern traveler who knows just enough of a foreign language to find a bathroom anywhere in the world.
 
 ### 2. The Artifact: The Resonance Orb
 * **Appearance:** A mysterious "rock" or "orb" affixed to the top of a wooden staff. 
