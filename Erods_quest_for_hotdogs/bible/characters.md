@@ -29,4 +29,4 @@
 
 ### 🕴️ The Chicago Bootlegger (1940s)
 * **Profile:** A fast-talking, sharp-dressed mobster entangled in the city's illegal liquor distribution network.
-* **Role:** He mistakes Eron for a heavy-hitting, eccentric foreign mercenary from a rival syndicate. He ropes Eron into a dangerous distribution run, inadvertently giving Eron access to the city's high-voltage industrial power lines and teaching him his favorite new catchphrase: *"Give me a smoke and ahh, see?"*
+* **Role:** He mistakes Eron for a heavy-hitting, eccentric foreign mercenary from a rival syndicate. He ropes Eron into a dangerous distribution run, inadvertently giving Eron access to the city's high-voltage industrial power lines and teaching him his favorite new catchphrase: *"Give me a smoke and ahh, see?"*X
