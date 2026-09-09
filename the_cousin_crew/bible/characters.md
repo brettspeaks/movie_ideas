@@ -43,3 +43,17 @@
 ## Mission Base Parameters
 * **Primary Objective:** Hunt entities, seal planar rifts, perform sold-out stadium encores.
 * **Secondary Objective:** Eat pizza, dodge family questions, avoid bedtime.
+
+---
+
+# Sub-Characters & Allies Manifest
+
+## The Sensei / Soundboard Master (Dad)
+* **Role:** Mission Handler, Gear Tech, & Cover Story Specialist
+* **Location:** The Soundboard / Mission Control Van
+* **Key Responsibilities:**
+  * Operating the planar rift detection equipment and soundboard mix during live performances.
+  * Stocking the squad van with tactical gear, fruit snacks, and post-mission pizza.
+  * Crafting impenetrable cover stories when parents/relatives ask why the kids are covered in demon dust at 9:00 PM.
+  * Maintaining the master archive of rift lore, monster stats, and squad choreo.
+* **Special Ability:** *The Dad Glare* — Instantly brings an 8-year-old co-leader and a 5-year-old chaos tyrant back into tactical formation.
