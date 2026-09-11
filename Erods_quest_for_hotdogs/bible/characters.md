@@ -17,6 +17,41 @@
 
 ---
 
+### Character Profile: Bob (The Narrator)
+
+**Role:** Omniscient Narrator / Disembodied Handler / Reluctant Life Coach  
+**Location:** A sparsely furnished two-bedroom apartment in Dublin, Ohio  
+**Primary Setup:** One fold-out lawn chair, a laptop, and a headset mic  
+
+
+#### Character Arc & Overview
+Bob begins as a classic, high-literary "Voice of God" narrator—authoritative, grandiloquent, and seamlessly guiding the crew through time-travel operations. However, as his personal life completely detonates off-screen, his professional facade cracks, eventually collapsing into an unfiltered, deeply human connection with Bradley, Cattie, and Eron. 
+
+Rather than remaining a distant cosmic observer, Bob becomes the crew’s adopted, dysfunctional anchor. In turn, the crew becomes Bob's only real support system while he works his way through rock bottom and into recovery.
+
+
+#### Key Backstory & Off-Screen Conflict
+* **The Downward Spiral:** Bob’s ex-wife stripped his bank accounts, took the house, and alienated his entire social circle. His car was repossessed, leaving him with an empty apartment, a half-bottle of plastic-bottle vodka in the crisper drawer, and a single lawn chair.
+* **The 12-Step Journey:** After a series of unhinged, alcohol-fueled recording sessions, Bob enters a 12-step program for anger management and grief counseling. His recovery process constantly leaks into his narration as mid-scene confessions and Step 9 amends.
+* **Professional Legacy:** "Used to be very good" at his job before his personal life derailed his career. The comms link to Bradley’s team is his final remaining contract—and his literal life raft.
+
+#### Dynamic with the Crew
+* **Bradley:** Shares a quiet, "I know that you know that I know" understanding. Bradley sees right through Bob's flowery cover-ups, offering non-judgmental grace and gentle validation (*"Thanks for coming along"*).
+* **Cattie:** Direct, blunt, and protective. She calls out his state of mind without hesitation, prompting Bob’s defensive, un-narrator-like reflex: *"Cat, you shut your face. I'm fine."*
+* **Eron:** The paranoid strategist who initially views Bob’s midnight transmissions as temporal anomalies, before eventually accepting Bradley’s simple explanation: *"Yeah, Bob's just going through some stuff."*
+
+#### Voice & Speech Patterns
+* **Tone:** Shifts rapidly from sweeping, cinematic documentary prose to sharp, defensive, colloquial clapbacks, followed by awkward, corporate-mandated public apologies.
+* **Poetic Deflection:** Uses hyper-vivid, high-literary descriptions to gloss over low-end personal misery (e.g., describing a tow truck taking his Honda Accord as a sweeping metaphor for unyielding fate).
+* **Key Beat:** Heavy silences broken by a slight, professional clear of the throat right before dropping a major life update or a forced, rigid apology.
+
+#### Climax & Resolution
+* Inspired by Bradley’s growth from a timid overthinker into a master of 4D tactical chess, Bob finds the courage to stop hiding behind his headset and step back into the real world.
+* **Final Sign-Off:** Leaves an open, humming mic and a simple handwritten note on the dashboard of the timeline radio before walking away for good:
+  > *"Had to go see about a girl."*
+
+---
+
 ## 👥 Side Characters & Historical Encounter Profiles
 
 ### 🛒 The CostCan Savior (Modern Era)
