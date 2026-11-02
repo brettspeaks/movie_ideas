@@ -7,7 +7,6 @@
 
 ## 📌 Logline
 An ancient engineer from an advanced pre-ice-age civilization accidentally triggers a time-travel artifact. Stranded across history with a dying biological power source, his ultimate quest is to master the machine, secure the greatest future culinary achievement ($1.50 CostCan hot dog combo), and return to save his village from a catastrophic ice dam.
-
 ---
 
 ## 🎯 Core Themes & Character Arcs
